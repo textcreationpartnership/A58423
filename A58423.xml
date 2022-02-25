@@ -1,0 +1,335 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Now or never: work out your salvation with fear and trembling; or, A serious exhortation to all poor sinners to lay hold upon Christ Jesus who is the fountain of all happiness, and who is the onely rock from whence doth spring all their comforts. Herein is also laid down several motives declaring the necessity of this work, that it ought not to be put off for to morrow; bnt [sic] that every poor sinner should strive to enter in at the strait gate now, while he hath an opportunity in his hand, lest he be snatcht away by death, and then it will be too late. The third edition, with additions. By B.R.</title>
+            <author>B. R.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58423</idno>
+            <idno type="STC">Wing R8</idno>
+            <idno type="STC">ESTC R219714</idno>
+            <idno type="EEBO-CITATION">99831165</idno>
+            <idno type="PROQUEST">99831165</idno>
+            <idno type="VID">35628</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58423)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35628)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2095:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Now or never: work out your salvation with fear and trembling; or, A serious exhortation to all poor sinners to lay hold upon Christ Jesus who is the fountain of all happiness, and who is the onely rock from whence doth spring all their comforts. Herein is also laid down several motives declaring the necessity of this work, that it ought not to be put off for to morrow; bnt [sic] that every poor sinner should strive to enter in at the strait gate now, while he hath an opportunity in his hand, lest he be snatcht away by death, and then it will be too late. The third edition, with additions. By B.R.</title>
+                  <author>B. R.</author>
+               </titleStmt>
+               <extent>23, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Charls Tyus, at the three Bibles on London-bridge,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1663.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Text mostly in black letter.</note>
+                  <note>Signatures: A B⁴.</note>
+                  <note>With advertisement on the final leaf.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Salvation --  Early works to 1800.</term>
+               <term>Christian life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35628:1" rendition="simple:additions"/>
+            <p>NOW or NEVER: Work out your Salvation with fear and trembling; OR, A Serious Exhortation to all poor Sin<g ref="char:EOLhyphen"/>ners to lay hold upon Chriſt Jeſus, who is the Fountain of all Happineſs, and who is the Onely Rock from whence doth ſpring all their Comforts.</p>
+            <p>Herein is alſo laid down ſeveral Motives declaring the Neceſſity of this Work, that it ought not to be put off for to morrow; but that every poor Sinner ſhould ſtrive to enter in at the ſtrait gate now, while he hath an opportunity in his hand, leſt he be ſnatcht away by death, and then it will be too late.</p>
+            <p>The Third Edition, with Additions.</p>
+            <q>
+               <bibl>2 Cor. 6.2.</bibl>
+               <p>Now is the accepted time: Behold, now is the day of ſalvation.</p>
+            </q>
+            <q>
+               <bibl>Math. 25 13.</bibl>
+               <p>Watch therefore, for ye know not neither the day, nor the hour wherein the Sun of Man cometh.</p>
+            </q>
+            <p>By B. R.</p>
+            <p>London, Printed for Charls Tyus, at the Three Bibles on London-bridge. 1663.
+<pb facs="tcp:35628:2"/>
+               <pb facs="tcp:35628:2" rendition="simple:additions"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:35628:3"/>
+            <pb n="3" facs="tcp:35628:3" rendition="simple:additions"/>
+            <head>NOW or NEVER.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Heb.</hi> 3. <hi>from the</hi> 7<hi rend="sup">th</hi> 
+                     <hi>to the</hi> 16<hi rend="sup">th</hi> 
+                     <hi>verſe.</hi>
+                  </bibl>
+                  <p>Wherefore as the Holy Ghoſt ſaith, To day if ye will hear his voice, harden not your hearts, as in the provocation, in the day of temptation in the wilderneſs: when your fathers tempted me, proved me, and ſaw my works forty yeers. Wherefore I was grieved with that generation, and ſaid, They do alway erre in their hearts, and they have not known my ways. So I ſware in my wrath: They ſhal not enter into my reſt.</p>
+                  <p>Take heed, brethren, leſt there be in any of you an evil heart of unbelief, in departing from the living God. But exhort one another daily, while it is called, To day, leſt any of you be hardned through the de<g ref="char:EOLhyphen"/>ceitfulneſs of ſin. For we are made par<g ref="char:EOLhyphen"/>takers of Chriſt, if we hold the beginning of our confidence ſtedfaſt unto the end. Whileſt it is ſaid, To day if ye will hear his voice, harden not your hearts, as in the provocation.</p>
+               </q>
+            </epigraph>
+            <p>THeſe words of the Holy Apoſtle <hi>Paul,</hi> are a ſerious exhortation to all poor ſinners
+<pb n="4" facs="tcp:35628:4"/>to lay hold on Chriſt Ieſus; we are ſtirred up ſpéedily to believe in him; to day, while it is called to day, leſt we by neglecting of this opportunity, and by our unbelief, do in<g ref="char:EOLhyphen"/>cur a heavier and more ſore judgement upon us, then hard-hearted <hi>Iſrael</hi> did, who grie<g ref="char:EOLhyphen"/>ved <hi>Moſes</hi> forty years together, and by rea<g ref="char:EOLhyphen"/>ſon of their unbelief, ther did not enter into the reſt that was promiſed them, but fell by the way of the wilderneſs.</p>
+            <p>Now then, poor ſinners, I would in this ſmall Treatiſe, endeavor to ſtir you up to lay held upon Chriſt Ieſus, who is the Fountain of all our happineſs, who is the Well-head from whence doth ſpring all our ſpiritual and temporal enjoyments: and the more earneſtly to encourage you to lay hold on this your onely Supporter, I ſhall endeavor to lay down ſome Motives to ſtir you up to this work, and that it may be done ſpéedily, to day while it is called to day, I ſhall deſire you to read the words of <hi>Solomon</hi> the wiſeſt of men and beſt of Kings, as you will finde them written in the <hi>9</hi> of <hi>Eccleſiaſtes, 10</hi> verſe, the words are theſe, <hi>Whatſoever thy hand find<g ref="char:EOLhyphen"/>eth to do, do it with thy might, for there is no work, nor device, nor knowledge, nor wiſdom in the grave whether thou goeſt.</hi>
+            </p>
+            <p>The principal aim of <hi>Solomon</hi> in theſe words, are to ſhew that men are mortal, and
+<pb n="5" facs="tcp:35628:4"/>that wiſdom piety, and riches, and all the earthly enjoyments that a poor ſoul can have in this life, it will not exempt him from death, all our creature-comforts are but tranſitory; we are here to day, and in the grave to morrow, therefore we have little reaſon to ſet our affections on things that are parting from us, or otherwiſe we are par<g ref="char:EOLhyphen"/>ting from them; but let us take the advice of the Apoſtle St. <hi>Paul,</hi> to ſet our affections on things above, and not on things that are beneath Before I come to lay down the M<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tives to ſtir you to the work you are to do, I ſhall lay down this general obſervation, which is:</p>
+            <p>
+               <hi>Doct.</hi> That the work of this life cannot be done after this life is ended; therefore while we have time in this life, we muſt uſe all diligence to make our calling and election ſure: <hi>To day, while it is called to day, har<g ref="char:EOLhyphen"/>den dot your hearts.</hi> This is the day, <hi>NOW</hi> or <hi>NEVER.</hi> There is no repentance in the grave, the grave hath no work, but heaven hath work, and hell hath ſuffering: Now then to incite you to this work, let me tell you</p>
+            <p>
+               <hi>Firſt,</hi> Know that time cannot be recalled, that which was once will be no more, yeſter<g ref="char:EOLhyphen"/>day will never come again, and this day is paſsing away, therefore work while you have day, the night will come and then you cannot
+<pb n="6" facs="tcp:35628:5"/>work: 'Tis true, while the Candle burneth you may make uſe of its light, but when that is done, it is too late to uſe it. The time that is now idled and talkt away, the time that is now feaſted and complemented away, the time that is unneceſſarily ſported and ſlept a<g ref="char:EOLhyphen"/>way, the time that is wickedly and preſum<g ref="char:EOLhyphen"/>ptuouſly ſin'd away, how precious will it one day ſeem to all! O how happy would it be to ſoor ſinners, if at the <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eareſt rate they could redeem it! but this cannot be.</p>
+            <p>If cries, or tears, or price, or pains would bring back loſt abuſed time, how happy were this dead-hearted world, if it would then ſerve their turn to ſay to the vigilant Belie<g ref="char:EOLhyphen"/>ver, give us of your O<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l for our Lamps are gone out: or to cry, Lord, Lord open unto us, when the door is ſhut, the fooliſh would be ſaved as well as the wiſe, but they ſhall not attain ſal<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ation who have nor ſtrived in ſome meaſure to make uſe of their time to a better purpoſe than they have done, who have vain<g ref="char:EOLhyphen"/>ly and fooliſhly loſt their precious hours af<g ref="char:EOLhyphen"/>ter their bain delights. <hi>Math. 25. This is the day of Salvation, this is the accepted time, while it is called to day hearken, and harden not your hearts.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> As time can never he recalled, ſo life ſhall never here below be reſtored, <hi>Job 14.14</hi> verſe. <hi>If a man die, ſhall he live [here]
+<pb n="7" facs="tcp:35628:5"/>again? All the dayes of our appointed time we muſt therefore wait in faith and diligence, till our change ſhall come.</hi> We have but one life here upon earth, to diſpatch the work that our everlaſting life dependeth upon, and if we loſe that, we are undone for ever. While you are on this ſide of the Grave you have time to read, to hear, to pray, but when this time is done, it ſhall be no more, you ſhall riſe from death to Iudgement, according as you have lead your life here, you ſhall have your Reward hereafter: Now you may en<g ref="char:EOLhyphen"/>quire of your friends and Teachers what you ſhould do to be ſaved, and you may receive particular inſtructions and exhortations, and God may bleſs the endeavors of thoſe who are aſsiſting to you in the work ſo far, that your poor ſoul may be ſaved, but when life is paſt, it will be ſo no more. Had hell but ſuch an offer as this, and if any cries would pro<g ref="char:EOLhyphen"/>cure it from their righteous Iudge. O what a change would there be among them? how im<g ref="char:EOLhyphen"/>portunately would they cry to God, O ſend us once again upon the earth, once more let us ſée the face of Mercy, and hear the tenders of Chriſt and Salvation, once more let the Mi<g ref="char:EOLhyphen"/>niſters of the Goſpel of Ieſus Chriſt afford us their help, and teach in ſeaſon and out of ſeaſon, once more let us have the help and company of thy Saints, and we will ſcorn
+<pb n="8" facs="tcp:35628:6"/>them, abuſe them, and perſecute them no more; that we might once more be admitted into the holy aſſemblies, and have the Lords days to ſpend in the buſineſs of cur Salva<g ref="char:EOLhyphen"/>tion? It makes my heart even tremble to think how thoſe poor damned ſouls would ſtrive with God, to try them once again, if they had but the leaſt encouragements of hope, but it cannot be, it will not be, they had their day, they cannot loſe their time, and have it; they had faithful Guides, and would not follow them: long did Chriſt wait with the patient tenders of his blood and ſpirit, his grace was offered, but it would not be ac<g ref="char:EOLhyphen"/>cepted. Such mouths muſt be ſtopt for ever with a <hi>[Remember thou in thy life time re<g ref="char:EOLhyphen"/>ceivedſt thy good things, Luke 16.25.</hi>
+            </p>
+            <p>If ever you will repent and believe, it muſt be <hi>NOW</hi> or <hi>NEVER.</hi> If ever you will be unconverted and ſanctified, it muſt be <hi>NOW</hi> or <hi>NEVER</hi> If ever you will be par<g ref="char:EOLhyphen"/>doned and reconciled to God, it muſt be now. <hi>O that you were wiſe, and that you underſtood this, and that you would conſider your latter end, Deut. 32.29.</hi>
+            </p>
+            <p>O let me intreat you to let the words of our bleſſed Redéemer ſink into your hearts, <hi>Luke 19.41, 42. If thou hadſt known, even thou in this thy day, the things that do belong unto thy peace; But now they are hidden from thine eyes.</hi>
+            </p>
+            <pb n="9" facs="tcp:35628:6"/>
+            <p>
+               <hi>Thirdly,</hi> As there is no return after this life to live upon the earth, ſo there will be no doing this work hereafter; heaven is for a more glorious work, and hell will be for moſt horrible puniſhments; it is now that you muſt ſow, and hereafter that you muſt reap; it is now that you muſt work, and then that you muſt receive your wages. O therefore poor ſoul where ever thou doſt abide, let me perſwade thée to be up and be doing, be not like the children of <hi>Iſrael,</hi> who mur<g ref="char:EOLhyphen"/>mured and repined at the providences of God, becauſe they did not inherit the Land of Promiſe preſently, but do thou patiently wait Gods time, and be thou never idle, but ſtill ſetting forward to the heavenly <hi>Ca<g ref="char:EOLhyphen"/>naan,</hi> that ſo thou marſt be ready when God ſhall pleaſe to call thée to the inheritance thereof.</p>
+            <p>Let me lay before you your duties by way of Motives, in ſome few particulars: To be<g ref="char:EOLhyphen"/>gin with the loweſt of all: Then</p>
+            <p>
+               <hi>Firſt,</hi> In the works of your bodily calling, you muſt uſe diligence, <hi>In the ſweat of your brows you muſt eat your bread,</hi> Geneſis <hi>3.19. Six days ſhalt thou labour, and do all that thou haſt to do,</hi> Exodus <hi>209.</hi>
+            </p>
+            <p>Succeſs is Gods ordinary reward of tem<g ref="char:EOLhyphen"/>poral diligence; and diſeaſes, poverty, and ſhame are the uſual puniſhments of ſloath.</p>
+            <pb n="10" facs="tcp:35628:7"/>
+            <p>
+               <hi>Secondly,</hi> Are you parents or governors of families? you have work to do for God, and for the ſouls of them that God hath intruſted you with. Be diligent in Family-duties, re<g ref="char:EOLhyphen"/>member that you and your familles are go<g ref="char:EOLhyphen"/>ing to the grave, where you have heard there is no working, therefore what you do muſt be <hi>NOW</hi> or <hi>NEVER,</hi> to day while it is called to day, put not off any work which will for<g ref="char:EOLhyphen"/>ward you to heaven.</p>
+            <p>
+               <hi>Thirdly,</hi> Have you ignorant or ungodly neighbours, whoſe miſery calls for your com<g ref="char:EOLhyphen"/>paſsion, ſpeak to them, and keep them with all diligence, loſe not any opportunity of do<g ref="char:EOLhyphen"/>ing good while you are alive, to do what thou canſt to keep thy ignorant neighbor from eter<g ref="char:EOLhyphen"/>nal death; for when thou art in the grave, thou canſt do no good; up therefore, and be doing with all your might.</p>
+            <p>
+               <hi>Fourthly,</hi> Hath the Lord lent you riches in this world, he doth expect then that thou ſhouldeſt relieve thoſe that are in want, <hi>eſpe<g ref="char:EOLhyphen"/>cially do good to thoſe who are of the houſ<g ref="char:EOLhyphen"/>hold of faith. Caſt thy bread upon the waters, for thou ſhalt find it after many days.</hi> Do good before thy heart be hardened, thy riches bla<g ref="char:EOLhyphen"/>ſted and conſumed, thy opportunities taken away; part with it, before it part with thée.</p>
+            <p>
+               <hi>Fifthly,</hi> Hath God intruſted you with pow<g ref="char:EOLhyphen"/>er? O then ſéek to promote the Glory of God.
+<pb n="11" facs="tcp:35628:7"/>relieve the oppreſſed, right the widow and the fatherleſs, cheriſh them that do well, be a ter<g ref="char:EOLhyphen"/>ror to them that do evil; <hi>Let thoſe that work the work of the Lord, be with you without fear, 1 Cor. 16.10.</hi>
+            </p>
+            <p>
+               <hi>Sixthly,</hi> To come a little nearer to you yet, <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> any of you yet in the ſtate of nature, born onely of the fleſh, and not of the ſpirit, make cut to Chriſt, cry mightily to him for his renewing and pardoning Grace, for there is no converſion or repentance unto life in the grave whither thou goeſt; if ever thou wilt be ſaved, thou muſt do it <hi>NOW</hi> or <hi>NEVER.</hi>
+            </p>
+            <p>
+               <hi>Seventhly,</hi> Haſt thou any predominant ſin that over-ruleth thee, or woundeth thee, or keepeth thee off from being acquainted with God? Strive to reſiſt thoſe things, abhor them in thy very thoughts, hate the doors of the Harlot, or the Ale-houſe, where thou formerly haſt committed many griev us ſins.</p>
+            <p>
+               <hi>Eighthly,</hi> Art thou in a declining condi<g ref="char:EOLhyphen"/>tion, haſt thou loſt thy firſt deſires and love? O then up, and be doing thy firſt works, and remember from whence thou art fallen, cry cut with <hi>Job, Job 29.2, 3, 4, 5. O that I were as in moneths paſt, as in the days when God preſerved me, when his Candle ſhined upon my head, and when by his light I walked through darkneſs. As I was in the days of my
+<pb n="12" facs="tcp:35628:8"/>youth, when the ſecret of God was on my tabernacle, when the Almighty was yet with me.</hi>
+            </p>
+            <p>
+               <hi>Ninethly,</hi> Art thou in ignorance concern<g ref="char:EOLhyphen"/>ing thy converted eſtate, doſt thou not know whether thou art in a ſtate of life or death? Be thou careful then, and uſe the means that God hath appointed thée for aſſurance; ſearch the Scriptures, for in them are the words of Eternal Life. <hi>Examine your ſelves whether you be in the Faith; prove your ſelves. Know ye not your own ſelves that Chriſt is in you, except ye be reprobates? 2 Cor. 13.5.</hi>
+            </p>
+            <p>
+               <hi>Laſtly,</hi> In all the duties of thy Calling, whether Civil or Religious, ſéek to inflame thy Soul with the love of God, admire his Mercies. O taſte and ſée that the Lord is gracious, let his fear command thy ſoul, and truſt in him alone, caſt all thy care and thy ſelf upon him. When thou art reading of the Word, have an obediential fear and love to it, and let it be ſwéeter to thée than the H<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ney<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>com<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; reſolve to do what thou therein findeſt to be the will of God.</p>
+            <p>Thus have I ſhewed thée, O poor ſoul, in ſome meaſure what is thy duty to do; but theſe are but ſhort hints of what might be laid down: but I muſt be but ſhort, becauſe there are ſome other things of great concern<g ref="char:EOLhyphen"/>ment to thy poor ſoul to ſpeak ſomething to
+<pb n="13" facs="tcp:35628:8"/>before I come to a concluſion: And that I may not leave a poor ſoul in darkneſs, there are ſome few particulars that I would per<g ref="char:EOLhyphen"/>ſwade a Chriſtian to: The firſt is this.</p>
+            <p>
+               <hi>Firſt,</hi> Let me beg of thée to live as one that believeth there is a God, and that this God is the Creator, Lord, and Ruler of the whole world: Believe that this God is Al<g ref="char:EOLhyphen"/>mighty, and that the greateſt of men are leſs than worms in compariſon of this great God: Believe that God is wiſe, powerful, and that he is able to ſave thée; and as he is able, ſo he is willing, if thou by a true and lively faith doſt lay hold on him O live in the belief of this.</p>
+            <p>
+               <hi>Secondly,</hi> Live as one that doth believe mankinde is fallen into ſin and miſery, and that all men are under the condemnation of the Law of God, till they are delivered; and live as men that conſider that there muſt be a great change wrought in you before you come to die.</p>
+            <p>
+               <hi>Thirdly,</hi> Live as men that verily and truly believe that you are redéemed by Ieſus Chriſt who hath ſuffered for your ſins, and brought the glad Lydings of Salvation to your poor Souls: O believe in this Chriſt, and lay hold on all the precious Promiſes that are in the Goſpel: O caſt your ſelves upon him, who is the Phyſician of your poor ſouls.</p>
+            <pb n="14" facs="tcp:35628:9"/>
+            <p>
+               <hi>Fourthly,</hi> Believe that the Holy Ghoſt is given by Ieſus Chriſt to convert, to quicken, to ſatisfie all that he will ſave; and that ex<g ref="char:EOLhyphen"/>cept you be born of the Spirit, you ſhall never enter into the Kingdom of Heaven, and that <hi>if any man have not the Spirit of Chriſt, the ſame is none of his, Rom. 8.9.</hi>
+            </p>
+            <p>
+               <hi>Fifthly,</hi> Live in this belief that Sin is the greateſt evil, and that which doth give the greateſt offence to the Great and Holy God, and that is the evil which the Lord abhor<g ref="char:EOLhyphen"/>reth.</p>
+            <p>
+               <hi>Sixthly,</hi> Believe that this Sin will not be pardoned without repentance, and this muſt be true repentance alſo: which if it be ſo, it will not let thee live in any groſs ſin.</p>
+            <p>
+               <hi>Seventhly,</hi> Live as members of the Church of Chriſt, having communion with his Saints, and live as thoſe that believe there is a life everlaſting, where the ſanctified ſhall live in endleſs joy, and the wicked in everlaſt<g ref="char:EOLhyphen"/>ing woe.</p>
+            <p>
+               <hi>Laſtly,</hi> Live as thoſe that believe that this Life is given onely to make preparation for a better: All that ever ſhall be done for your Salvation, muſt be <hi>NOW</hi> or <hi>NEVER.</hi> Live and believe that the world and the fleſh are the deadly enemies of your Salvation; <hi>If you live after the fleſh, ye ſhall die after it, but if by the Spirit ye mortifie the deeds
+<pb n="15" facs="tcp:35628:9"/>of the body, ye ſhall live, Romans 8.13.</hi>
+            </p>
+            <p>Chriſtians, let me tell you, that in all un<g ref="char:EOLhyphen"/>dertakings your onely aim ſhould be the glory of God, and you ought to do every thing with an obediential fear, knowing that there is none in Heaven nor upon the earth can ſave your ſouls, but the great God of Heaven and earth. To this Obedience let me perſwade you in a few particulars.</p>
+            <p>
+               <hi>Firſt,</hi> The work of God muſt be done with fear and reverence, God will be ſanctified of all that draw near him, God will be ſerved as God, and not as man, God will not be pray<g ref="char:EOLhyphen"/>ed to with a regardleſs minde. It is a dread<g ref="char:EOLhyphen"/>ful thing for poor duſt and aſhes to ſpeak to ſuch a great God, but it is a dangerous thing to ſpeak ſlightly and irreverently of him: It concerns every believing Soul to have more of the fear of God upon his heart, than the common people of the world have; for they that have taſted that the Lord is gracious, have a great cauſe to have a reverential fear of his name.</p>
+            <p>
+               <hi>Secondly,</hi> It is requiſite that you be very ſerious and ſober in all your ſervices you per<g ref="char:EOLhyphen"/>form to God: Be fervent and ſerious in ſéek<g ref="char:EOLhyphen"/>ing of God, and your own ſalvation.</p>
+            <p>
+               <hi>Thirdly,</hi> Let your ſervice to the Lord be performed with an underſtanding heart: God delights not in the blinde devotion of
+<pb n="16" facs="tcp:35628:10"/>men that know not what they do. Prayers not underſtood, are not prayers; for no mans deſtres goeth beyond his knowledge, and he expreſſeth nor his deſtres, that knoweth not what he expreſſeth: If underſtanding be ne<g ref="char:EOLhyphen"/>ceſſary in our common diſcourſe, much more in our Addreſſes to the Moſt High. <hi>A man of underſtanding is of an excel ent ſpirit, but God hath no pleaſure in fools,</hi> Prov. <hi>37.27.</hi>
+            </p>
+            <p>
+               <hi>Fourthly, God is a Spirit, and he muſt be worſhipped in ſpirit and in truth,</hi> Iohn <hi>4.24. The Father ſeeketh ſuch to worſhip him:</hi> God calleth for the heart, he looketh upon the in<g ref="char:EOLhyphen"/>ward deſtres of the ſoul; if that be right, all will be well.</p>
+            <p>
+               <hi>Fifthly,</hi> The body hath its part in the ſer<g ref="char:EOLhyphen"/>vice of God, as well as the ſoul: the body muſt expreſs the inward reverence and devotion of the ſoul: there ought to be a very decent behavior in every childe of God at all times, but eſpecially when he is about any work that concerns his ſouls health.</p>
+            <p>
+               <hi>Sixthly,</hi> God will be ſerved with purity and folineſs: God a<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> rreth the ſacrifices of the wicked and diſobedient, thoſe that ſerve him muſt have undefiled garments, they muſt put on the white Robe of Chriſts Righ<g ref="char:EOLhyphen"/>teouſneſs.</p>
+            <p>
+               <hi>Seventhly,</hi> God will be ſerved univerſally and entirely in all his commands, and with
+<pb n="17" facs="tcp:35628:10"/>all your faculties; your work of piety, juſtice and charity muſt never be ſeparated: God will be ſerved with love and delight. O dear Chriſtians, conſider what a glorious privi<g ref="char:EOLhyphen"/>ledge the Saints have, who live always in the joys of the Lordland truly a Believer hath great cauſe of Ioy, and the chief cauſe of his Ioy is, that his ſins are pardoned, that God is reconciled to him in Chriſt Ieſus: he hath the promiſes of God, that all things ſhall work together for his good, even his grea<g ref="char:EOLhyphen"/>teſt ſufferings. He is always in the care of a tender Father, and he hath leave to draw néer unto him, and open his heart to him in prayer, even in the greateſt ſtraits and wants that can come to him.</p>
+            <p>Having thus in a brief and ſhort diſcourſe laid down in ſome particulars the duty of e<g ref="char:EOLhyphen"/>very poor ſoul that would have an intereſt in Chriſt Ieſus, I would it were the Lords good pleaſure, that I could perſwade any poor ſoul to be deſirous and diligent in attaining to that happineſs, which is, to lay hold upon Ieſus Chriſt, and to relye onely upon him: Caſt thy ſelf, and all that is thine upon the ſhoulders of him, who is able to hear thee, and he is willing to bring thee through all difficulty, if ſo be thou art willing to leave thy ſins, and repent thee of all thine ini<g ref="char:EOLhyphen"/>quities.</p>
+            <pb n="18" facs="tcp:35628:11"/>
+            <p>
+               <hi>If any man have an ear to hear, let him hear:</hi> O dear Chriſtians, conſider theſe words, now is the time that you are called upon; now, while you have opportunities; now, hear the Word preached by the faithful Miniſters of the Goſpel, leſt by death you are ſnatcht away and then it is too late.</p>
+            <p>Now you have abundance of private helps, now you have the Lords-day to ſpend in holy exerciſes for the edification of your poor ſouls. Now you have choice and ſerious Books to meditate on, and bleſſed be the Lord, you have the protection of a Chriſtian King, O theſe are great Mercies, and we do not know how long, or how little while we may enjoy them! O therefore make uſe of time, for this time will not laſt always: therefore <hi>NOW</hi> or <hi>NEVER</hi> work out your ſalvation with fear and trembling.</p>
+            <p>Conſider the words of the Apoſtle <hi>Peter,</hi> in the ſecond Epiſtle, the firſt chapter, and the tenth verſe, <hi>Wherefore the rather brethren, give diligence to make your calling and ele<g ref="char:EOLhyphen"/>ction ſure, for if ye do theſe things ye ſhall never fall.</hi> In theſe words there is the Chri<g ref="char:EOLhyphen"/>ſtians duty laid down in the former part of the verſe, in theſe words, <hi>wherefore the ra<g ref="char:EOLhyphen"/>ther brethren, give diligence:</hi> then in the ſuc<g ref="char:EOLhyphen"/>ceeding words, are the reaſons laid downe wherefore this diligence is required, and that
+<pb n="19" facs="tcp:35628:11"/>is, <hi>to make your calling and election ſure:</hi> then in the laſt clauſe of the verſe, there is a gracious promiſe to all that are diligent in this work; <hi>for if you do thoſe things; you ſhall never fall.</hi> O what comfortable words are theſe to a poor ſoul, who ſtrives to attain to this work, who is diligent in working out his ſalvation with fear and trembling! O let us labor earneſtly for the true faith, that we may attain to ſome aſſurance of our-ſalvation: let us conſider, and meditate upon thoſe words of the holy Apoſtle <hi>Paul, Hebr. 10.21.</hi> to the <hi>25</hi> verſe, the words are theſe, <hi>And ha<g ref="char:EOLhyphen"/>ving an High preiſt over the houſe of God, let us draw near with a true heart, in full aſſurance of faith, having our hearts ſprinkled from an evil conſcience, and our bodies waſhed with pure water. Let us hold faſt the profeſſion <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f our faith without wavering, for he is faithful that promiſeth; and let us conſider one ano<g ref="char:EOLhyphen"/>ther, to provoke unto love, and to good works.</hi>
+            </p>
+            <p>Beloved, theſe things muſt be done now, or elſe when we have loſt our ſeaſon, it will be too late. Before I come to a full conclu<g ref="char:EOLhyphen"/>ſion, I would once again perſwade thee to a holy life, for fear thou art overtaken with an untimely death: I call that untimely death, that is, if thou art not prepared for it: we have not ſo much cauſe to fear death, as we
+<pb n="20" facs="tcp:35628:12"/>ought to bewail our wicked life: It is too common a Reception amongſt many, that Death puts a period to all our troubles, (a ſhort life, and a ſweet life, being the vulgar proverb) the ſenſe of their pain, more than the deſires of their being freed from their ſins, inviting the haſtineſs of their lips. I confeſs it is a happineſs to die indeed, if we are fitted for death, if we die with a con<g ref="char:EOLhyphen"/>ſcience void of offence towards all men: but alas if otherwiſe, our corporal death is but a ſeparation of ſoul and body. Death is com<g ref="char:EOLhyphen"/>mon to the good, as well as the bad; to the Prince as well as the Peaſant, as the Wo<g ref="char:EOLhyphen"/>man of <hi>
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ekoa</hi> told <hi>David, We muſt all die, and are as the water ſpilt upon the ground that cannot be gathered up again, 2</hi> Samuel <hi>14.</hi> verſe <hi>14.</hi>
+            </p>
+            <p>But who is it that truely conſiders the fearful ſeparation of ſoul and body from the gracious preſence of a merciful God? who is it that would here live in a priſon, a dungeon, a ſink of ſin, rather than in a Palace of royal freedom? Oh Lord, who is it that doth not tremble to think upon this fearful parting? whoſe heart doth not ake within him, to think after that woful Sentence of Condemnation, <hi>Mark 24.51. Depart ye curſed into everlaſt<g ref="char:EOLhyphen"/>ing fire,</hi> this will be a ſad parting to all thoſe who have not taſted the Lord is gracious,
+<pb n="21" facs="tcp:35628:12"/>and who have not laboured with diligence to make their calling and election ſure. Conſider of it poor ſoul, who ever thou art that re<g ref="char:EOLhyphen"/>maineſt in an unregenerate eſtate, whether it be not thy chief concern, to be earneſt with God in prayer, and in all other duties of a Chriſtian now, while thou haſt health in this life, left when thou come to die, death prove an eternal death to thy poor ſoul: I do not mean that the ſoul can die, but when the ſoul and body part, thy ſoul will be eternally burning in hell fire, and never die. O let the conſideration of the ſhortneſs of this Life, ſtir thee up to preparation for death, that whenſoever it comes upon thee, it may not come at unawares to thée, but be thou ready to imbrace death, and ſay, Come Lord Ieſus, come quickly.</p>
+            <p>What are Hon<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs, Beauty, Riches, high p<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es, wit, ſtrength, friends, are they not em<g ref="char:EOLhyphen"/>pty viols? are they not common to the wicked as well as the good? ſurely they cannot help, they cannot ſatisfie in the evil day, when death comes all will forſake thee, and prove but as miſerable comforts, and deceitful friends; therefore <hi>NOW</hi> or <hi>NEVER</hi> is the time for thee to work in. O let the ſoul take héed in time, let not the love of the world be witch thee: die thou muſt, it cannot be avoided, but when thou knoweſt not, <hi>all the days of thy
+<pb n="22" facs="tcp:35628:13"/>appointed time thou ſhalt wait, till thy change come, job 14.14.</hi> Can that tennant be light at heart, that knows he ſhall quickly be turn'd out of doors, and hath no place provided where<g ref="char:EOLhyphen"/>in he may put his head? or canſt thou eat, or drink, or sléep quietly, and art no way aſſured ef a better dwelling, when this earthly houſe of thy tabernacle here ſhall be diſſolved? Oh poor ſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ul, be no longer deluded, be no longer ſo deſperate as to hazard thy eternal happineſs for the ſhadows of pleaſure, for the ſhadows of profit, which are all but vanity and vexa<g ref="char:EOLhyphen"/>tion of ſpirit.</p>
+            <p>To conclude then dear Chriſtians, let me exhort you in the fear of the Lord, to a ſeri<g ref="char:EOLhyphen"/>ous diligence in ſeeking thoſe things which conduce to the happineſs of your poor ſouls: what though perſecutions ariſe, be not trou<g ref="char:EOLhyphen"/>bled, perſecution is the crown and rejoycing of a true Chriſtian. Our Savior pronounceth them happy who forſake Father, and Mother, or Land, or any thing for his Names ſake: As tribulations abound, ſo do our conſolati<g ref="char:EOLhyphen"/>ons, our enemies being inſtruments of com<g ref="char:EOLhyphen"/>forting us by afflicting us: what creature then ſhould be more joyful than a Chriſtian? for God the Creator he is a comforting us, while the creature is afflicting us: Be not impatient then, O ſuffering ſoul, at the rage and malice of the greateſt adverſary thou
+<pb n="23" facs="tcp:35628:13"/>canſt have, ſince by the enjoyment of our hea<g ref="char:EOLhyphen"/>venly Father we are more than conqueror<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+            </p>
+            <p>Account it the greateſt benefit to lye down patiently in the bed of affliction, where Chriſt reſts himſelf with thy ſoul, and will ſhortly come and lodge with thee in ſome gracious viſitation, yea, he will viſit thee with abun<g ref="char:EOLhyphen"/>dance of conſolation, and then thou ſhalt count thy ſelf a gainer if thy afflictions have been ſo great as to bring forth an eternal reward of joy and bleſſedneſs.</p>
+            <p>To bring all then to a concluſion, let the conſideration of all the fore-going benefits which thou wilt attain unto by ſerious dili<g ref="char:EOLhyphen"/>gence in the practiſe of holineſs, incite thée <hi>NOW</hi> or <hi>NEVER</hi> to work out thy Salva<g ref="char:EOLhyphen"/>tion with fear and trembling.</p>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>Books ſold by <hi>Charls Tyus,</hi> at the Three Bibles on <hi>London-bridge.</hi>
+            </head>
+            <p>THe Wiſe Merchant: Or, The Peerleſs Pearl. By <hi>T. Calvert,</hi> Miniſter of Gods Word in the City of <hi>York.</hi>
+            </p>
+            <p>The Chriſtian Combat: Or, His true Spi<g ref="char:EOLhyphen"/>ritual Warfare. By <hi>C. Love,</hi> late Miniſter of Gods Word in the City of <hi>London.</hi>
+            </p>
+            <p>The Book of Graces, with Prayers for Morning and Evening: All but three pence a piece.</p>
+            <pb facs="tcp:35628:14"/>
+            <p>The Sinners Warning-piece: Or, Heavens Meſſenger. By <hi>Tho. Robins</hi> B. of D.</p>
+            <p>Mans Chief Guide to Salvation. By <hi>T. R.</hi> B. of D.</p>
+            <p>The Scholars Winter Garment: Or, The Garment of Righteouſneſs, By <hi>T. R.</hi> Batche<g ref="char:EOLhyphen"/>lor of Divinity.</p>
+            <p>A Wonder of Wonders: Or, Gods people the Worlds Wonder. By <hi>R. Hough.</hi>
+            </p>
+            <p>
+               <hi>Englands</hi> Golden Legacy: Or, A brief De<g ref="char:EOLhyphen"/>ſcription of the Mercies of God beſtowed up<g ref="char:EOLhyphen"/>on <hi>England.</hi> By <hi>L. P.</hi>
+            </p>
+            <p>Gods Meſſage from Heaven to Sinners on Earth. By <hi>T. P.</hi> B. of D. L.</p>
+            <p>The School of Learning: Being Prayers for Morning and Evening for every day in the Week; with Graces before and after Meat, and a ſhort Catechiſm for Children.</p>
+            <p>The Vertuous Wife is the Glory of her Husband: Being a new Book, ſhewing the care qualities of the truly vertuous woman.</p>
+            <p>Chriſt upon the Croſs ſuffering for ſinners, by <hi>S.S.</hi>
+            </p>
+            <p>Gods Call to Unconverted Sinners.</p>
+            <p>Theſe ten laſt are but two pence a piece, and very ſeaſonable for theſe ſinful times in which we live.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:35628:14"/>
+         </div>
+      </back>
+   </text>
+</TEI>
